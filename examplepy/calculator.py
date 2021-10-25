@@ -8,7 +8,8 @@ def suma(x,y):
     
     Returns
     -------
-    Numeric : Suma de los números
+    Numeric
+        Suma de los números
     """
     return x+y
 
@@ -22,7 +23,8 @@ def resta(x,y):
     
     Returns
     -------
-    Numeric : Resta de los números
+    Numeric
+        Resta de los números
     """
 
     return x-y
@@ -37,7 +39,8 @@ def multiplicacion(x,y):
     
     Returns
     -------
-    Numeric : Multiplicación de los números
+    Numeric
+        Multiplicación de los números
     """
 
     return x*y
@@ -52,7 +55,8 @@ def division(x,y):
     
     Returns
     -------
-    Numeric : División de los números
+    Numeric
+        División de los números
     """
 
     if y == 0:
@@ -70,7 +74,8 @@ def power(x,y):
     
     Returns
     -------
-    Numeric : Potencia x**y
+    Numeric
+        Potencia x**y
     """
 
     return x**y
