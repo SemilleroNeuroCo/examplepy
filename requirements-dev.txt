@@ -1,0 +1,9 @@
+pytest
+pytest-cov
+sphinx>3
+furo
+sphinx_gallery
+sphinx-copybutton
+sphinxcontrib-mermaid
+sphinx-autoapi
+myst-parser
