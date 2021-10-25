@@ -1,7 +1,7 @@
 def suma(x,y):
     return x+y
 
-def resta(x,y):
+def resta2(x,y):
     return x-y
 
 def multiplicacion(x,y):
