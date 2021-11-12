@@ -1,0 +1,15 @@
+:py:mod:`examplepy`
+===================
+
+.. py:module:: examplepy
+
+
+Submodules
+----------
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+
+   calculator/index.rst
+
+

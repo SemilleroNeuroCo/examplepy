@@ -1,0 +1,88 @@
+:py:mod:`examplepy.calculator`
+==============================
+
+.. py:module:: examplepy.calculator
+
+
+Module Contents
+---------------
+
+
+Functions
+~~~~~~~~~
+
+.. autoapisummary::
+
+   examplepy.calculator.suma
+   examplepy.calculator.resta
+   examplepy.calculator.multiplicacion
+   examplepy.calculator.division
+   examplepy.calculator.power
+
+
+
+.. py:function:: suma(x, y)
+
+   Sumar dos números x,y
+
+   :param x:
+   :type x: Numeric
+   :param y:
+   :type y: Numeric
+
+   :returns: Suma de los números
+   :rtype: Numeric
+
+
+.. py:function:: resta(x, y)
+
+   Resta dos números x,y
+
+   :param x:
+   :type x: Numeric
+   :param y:
+   :type y: Numeric
+
+   :returns: Resta de los números
+   :rtype: Numeric
+
+
+.. py:function:: multiplicacion(x, y)
+
+   Multiplicación dos números x,y
+
+   :param x:
+   :type x: Numeric
+   :param y:
+   :type y: Numeric
+
+   :returns: Multiplicación de los números
+   :rtype: Numeric
+
+
+.. py:function:: division(x, y)
+
+   División dos números x,y
+
+   :param x:
+   :type x: Numeric
+   :param y:
+   :type y: Numeric
+
+   :returns: División de los números
+   :rtype: Numeric
+
+
+.. py:function:: power(x, y)
+
+   Elevar x a la y
+
+   :param x:
+   :type x: Numeric
+   :param y:
+   :type y: Numeric
+
+   :returns: Potencia x**y
+   :rtype: Numeric
+
+
